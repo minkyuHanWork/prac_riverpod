@@ -1,16 +1,10 @@
 # prac_riverpod
 
-A new Flutter project.
+Riverpod Tutorial
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Initial screen
 
-A few resources to get you started if this is your first Flutter project:
+![riverpod_main](https://user-images.githubusercontent.com/111036072/200269775-2654a18b-8ec6-479b-9260-ea0e4a57b291.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
